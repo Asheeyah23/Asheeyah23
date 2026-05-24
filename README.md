@@ -1,5 +1,5 @@
 ## Hi,I'm Ashiah 👋
-Computer Engineer • Frontend Developer • Beginner UI/UX Designer • Content Creator •Gift Curator
+Computer Engineer • Frontend Developer • Beginner UI/UX Designer •Gift Curator
 
 
 I enjoy turning ideas into experiences people genuinely enjoy using.
@@ -50,6 +50,7 @@ When I’m not designing or coding, I’m usually:
 
 ---
 📫 Let's Connect
+
 • GitHub-> https://github.com/Asheeyah23
 
 
