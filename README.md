@@ -1,4 +1,4 @@
-## Hi I'm Ashiah 👋
+## Hi,I'm Ashiah 👋
 Computer Engineer • Frontend Developer • Beginner UI/UX Designer • Content Creator •Gift Curator
 
 
