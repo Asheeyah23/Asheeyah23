@@ -1,16 +1,58 @@
-## Hi there 👋
+## Hi I'm Ashiah 👋
+Computer Engineer • Frontend Developer • Beginner UI/UX Designer • Content Creator •Gift Curator
 
-<!--
-**Asheeyah23/Asheeyah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into experiences people genuinely enjoy using.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+💻About Me
+
+I’m passionate about building digital experiences that feel simple,thoughtful,and visually engaging. My background in Computer Engineering gives me a strong technical foundation,while my work in Frontend Development and UI/UX Design allows me to bring ideas to life through clean interfaces and user-centered design.
+Beyond tech,I’m also the founder of a gift-curating brand,where creativity,storytelling,and attention to detail come together in a different way.
+
+•💻 2+ Shipped Projects  
+
+•🏆Participated in 2+ hackatons 
+
+•🌎Based in nigeria 
+
+•✨Bitcoin enthusiast 
+
+•🤝Open-source Contributor 
+
+I enjoy turning ideas into experiences people genuinely enjoy using.
+
+
+---
+🌱Currently exploring 
+
+•Building better digital experiences through thoughtful UX
+
+
+•Improving frontend performance & interaction design
+
+
+•Creating products that are both functional and beautiful
+
+---
+✨ A little beyond code 
+
+When I’m not designing or coding, I’m usually:
+
+• creating content
+
+• working on creative brand ideas
+
+• curating thoughtful gifts
+
+• learning new ways technology and design connect
+
+---
+📫 Let's Connect
+• GitHub-> https://github.com/Asheeyah23
+
+
+
+
+
