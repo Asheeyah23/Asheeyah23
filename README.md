@@ -48,6 +48,15 @@ When I’m not designing or coding, I’m usually:
 
 • learning new ways technology and design connect
 
+
+---
+
+🚀 Featured Work
+
+• Zappr (Hack4Freedom) -> https://zappr-indol.vercel.app/. A multilingual Nostr-based Bitcoin project that streamlines payments and interactions using open-source, decentralized technology.
+
+
+
 ---
 📫 Let's Connect
 
