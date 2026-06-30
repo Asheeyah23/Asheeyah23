@@ -69,7 +69,7 @@ https://safeaid-one.vercel.app .
 An AI-powered SMS triage for survivor support organisations
 
 
-### • Ecoscrap (Cardarno) ->
+### • Ecoscrap (Cardano) ->
 https://ecoscrap-alpha.vercel.app/ .
 
 A decentralized marketplace connecting households with waste collectors in Lagos.
