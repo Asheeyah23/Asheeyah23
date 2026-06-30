@@ -6,26 +6,30 @@ I enjoy turning ideas into experiences people genuinely enjoy using.
 
 
 ---
-💻About Me
+
+## About Me
 
 I’m passionate about building digital experiences that feel simple,thoughtful,and visually engaging. My background in Computer Engineering gives me a strong technical foundation,while my work in Frontend Development and UI/UX Design allows me to bring ideas to life through clean interfaces and user-centered design.
 Beyond tech,I’m also the founder of a gift-curating brand,where creativity,storytelling,and attention to detail come together in a different way.
 
-•💻 2+ Shipped Projects  
+•💻 4+ Shipped Projects  
 
-•🏆Participated in 2+ hackatons 
+•🏆 Participated in 3+ hackatons
 
-•🌎Based in nigeria 
+•🏅 2 hackathons won
 
-•✨Bitcoin enthusiast 
+•🌎 Based in nigeria 
 
-•🤝Open-source Contributor 
+•✨ Bitcoin enthusiast 
+
+•🤝 Open-source Contributor 
 
 I enjoy turning ideas into experiences people genuinely enjoy using.
 
 
 ---
-🌱Currently exploring 
+
+## Currently exploring 
 
 •Building better digital experiences through thoughtful UX
 
@@ -36,7 +40,8 @@ I enjoy turning ideas into experiences people genuinely enjoy using.
 •Creating products that are both functional and beautiful
 
 ---
-✨ A little beyond code 
+
+## A little beyond code 
 
 When I’m not designing or coding, I’m usually:
 
@@ -51,14 +56,22 @@ When I’m not designing or coding, I’m usually:
 
 ---
 
-🚀 Featured Work
+## 🚀 Featured Work
 
-• Zappr (Hack4Freedom) -> https://zappr-indol.vercel.app/. A multilingual Nostr-based Bitcoin project that streamlines payments and interactions using open-source, decentralized technology.
+### • Zappr (Hack4Freedom) ->
+https://zappr-indol.vercel.app/. 
 
+A multilingual Nostr-based Bitcoin project that streamlines payments and interactions using open-source, decentralized technology.
+
+### • Safeaid (USAII Hackathon) ->
+https://safeaid-one.vercel.app . 
+
+An AI-powered SMS triage for survivor support organisations
 
 
 ---
-📫 Let's Connect
+
+## 📫 Let's Connect
 
 • GitHub-> https://github.com/Asheeyah23
 
