@@ -75,6 +75,11 @@ https://ecoscrap-alpha.vercel.app/ .
 A decentralized marketplace connecting households with waste collectors in Lagos.
 Instant payments, verified collectors, and building financial inclusion one scrap at a time.
 
+### • Claimflow (UiPath Maestro Agent)  ->
+https://claim-flow-seven.vercel.app/
+
+An Ai Powered insurance claims triage and fraud detection for emerging markets.
+
 ---
 
 ## 📫 Let's Connect
